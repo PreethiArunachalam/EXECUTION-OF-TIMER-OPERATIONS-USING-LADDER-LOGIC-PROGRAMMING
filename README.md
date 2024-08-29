@@ -1,10 +1,10 @@
 # EXECUTION-OF-TIMER-OPERATIONS-USING-LADDER-LOGIC-PROGRAMMING
 
 
- #### NAME :
- #### REGISTER NUMBER :
- #### DEPARTMENT 
- #### YEAR 
+ #### NAME : PREETHI A A
+ #### REGISTER NUMBER : 212222110035
+ #### DEPARTMENT: CSE(IoT) 
+ #### YEAR: 3 
 
  
 # Aim:
@@ -80,9 +80,18 @@ OFF-Delay Timer: The output should remain on for the specified delay after the i
 Retentive Timer: The output should turn on after the accumulated time reaches the preset value, and it should retain the accumulated time even if the input is turned off.
 
 
-# Simulation Screenshots 
+# Simulation Screenshots :
 
+# ON-Delay Timer:
 
+![Screenshot 2024-08-29 234353](https://github.com/user-attachments/assets/c609b744-5b3a-4809-af86-b7a8d7f2c805)
+
+# OFF-Delay Timer:
+
+![Screenshot 2024-08-29 234408](https://github.com/user-attachments/assets/33128ca8-ec66-4d8c-b23a-fa7855e217ea)
+
+# Result:
+The ladder logic programs for ON-delay, OFF-delay, and Retentive timers were successfully implemented and tested. The observed outputs matched the expected behavior of each type of timer, demonstrating the correct functioning of timer operations in PLC ladder logic. The experiment confirms the practical application of timers in controlling process sequences and managing time-dependent operations in industrial automation.
 
 
 
