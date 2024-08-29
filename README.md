@@ -90,21 +90,6 @@ Retentive Timer: The output should turn on after the accumulated time reaches th
 
 ![Screenshot 2024-08-29 234408](https://github.com/user-attachments/assets/33128ca8-ec66-4d8c-b23a-fa7855e217ea)
 
-# Result:
-The ladder logic programs for ON-delay, OFF-delay, and Retentive timers were successfully implemented and tested. The observed outputs matched the expected behavior of each type of timer, demonstrating the correct functioning of timer operations in PLC ladder logic. The experiment confirms the practical application of timers in controlling process sequences and managing time-dependent operations in industrial automation.
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Results:
 The ladder logic programs for ON-delay, OFF-delay, and Retentive timers were successfully implemented and tested.
 The observed outputs matched the expected behavior of each type of timer, demonstrating the correct functioning of timer operations in PLC ladder logic.
